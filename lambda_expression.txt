@@ -1,1 +1,6 @@
 # lambda-expression-in-Java-8
+
+
+http://netjs.blogspot.in/2015/06/lambda-expression-in-java-8-overview.html
+
+http://netjs.blogspot.in/2015/06/functional-interfaces-and-lambda-expression-in-java-8.html
